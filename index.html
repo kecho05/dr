@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <!-- Start Hero -->
 <div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat; background-size: cover;">
     <div class="hero-content">
@@ -11,11 +12,11 @@ layout: default
             </div>
         </div>
     </div>
+
     <div class="container-fluid">
+        
         <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
-            <h3><svg class="icon icon-envelope-o">
-                    <use xlink:href="#icon-envelope-o"></use>
-                </svg>Concerte una cita</h3>
+            <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Concerte una cita</h3>
             <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Nombre" required>
@@ -32,15 +33,15 @@ layout: default
                 <input type="submit" class="btn btn-default" value="Send">
             </form>
         </div>
+
     </div>
 </div>
 <!-- End Hero -->
+
 <!-- Start 3 columns -->
 <div class="three-shade-col">
     <div class="col-sm-4">
-        <svg class="icon icon-envelope-o">
-            <use xlink:href="#icon-envelope-o"></use>
-        </svg>
+        <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
         <h3>Contacte conmigo</h3>
         <ul>
             {% if site.contact.phone %}<li><strong>Teléfono:</strong> {{ site.contact.phone }}</li>{% endif %}
@@ -49,9 +50,7 @@ layout: default
         </ul>
     </div>
     <div class="col-sm-4">
-        <svg class="icon icon-clock-o">
-            <use xlink:href="#icon-clock-o"></use>
-        </svg>
+        <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
         <h3>Disponibilidad</h3>
         <table>
             <tbody>
@@ -71,20 +70,20 @@ layout: default
         </table>
     </div>
     <div class="col-sm-4">
-        <svg class="icon icon-map-marker">
-            <use xlink:href="#icon-map-marker"></use>
-        </svg>
+        <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
         <h3>Ubicación</h3>
-        <p>
-            {{ site.contact.address }}
-        </p>
+            <p>
+                {{ site.contact.address }}
+            </p>
     </div>
 </div>
 <!-- End 3 columns -->
+
 <!-- Start About -->
 <div id="about" class="about">
     <div class="container-fluid">
         <h2 class="section-title">Sobre mí</h2>
+
         <div class="row">
             <div class="col-sm-6">
                 <h3>Salvador Meza Velázquez</h3>
@@ -101,6 +100,7 @@ layout: default
                         <p>Hospital Regional Lic. Adolfo Lopez Mateos del ISSSTE CDMX</p>
                     </div>
                 </div>
+
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
@@ -112,6 +112,7 @@ layout: default
                         <p>Hospital de Traumatología y Ortopedia Lomas Verdes del IMSS</p>
                     </div>
                 </div>
+
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
@@ -119,7 +120,7 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <h4>Curso de Alta Especialidad en Reemplazos Articulares</h4>
+                         <h4>Curso de Alta Especialidad en Reemplazos Articulares</h4>
                         <p>Centro Médico Nacional "20 de Noviembre" del ISSSTE</p>
                     </div>
                 </div>
@@ -128,43 +129,46 @@ layout: default
                 <img src="img/about_1.png" alt="...">
             </div>
         </div>
+    
         <div class="row">
             <div class="col-sm-6">
-                <img src="img/about_2.jpg" alt="...">
+                    <img src="img/about_2.jpg" alt="...">
             </div>
             <div class="col-sm-6">
-                <h3>Mi experiencia laboral</h3>
-                <p>Pionero y encargado del módulo de reemplazos y reconstrucción artícular de rodilla y cadera en el IMSS Hospital General Regional 1 , en Cuernavaca Morelos, durante 3 años. En mi practica médica actual, en el Hospital General de Querétaro, es en el módulo de reemplazos articulares complejos y artroscopia de hombro y rodilla.Mi consultorio privado se encuentra en el Hospital Querétaro</p>
-                <br>
-                <div class="media">
-                    <img src="img/about_list_4.png" alt="...">
+                    <h3>Mi experiencia</h3>
+                    <p>Pionero y encargado del módulo de reemplazos y reconstrucción artícular de rodilla y cadera en el IMSS Hospital General Regional 1 , en Cuernavaca Morelos, durante 3 años. En mi practica médica actual, en el Hospital General de Querétaro, es en el módulo de reemplazos articulares complejos y artroscopia de hombro y rodilla.Mi consultorio privado se encuentra en el Hospital Querétaro</p>
+                    <br>
+                    <div class="media">
+                        <img src="img/about_list_4.png" alt="...">
+                    </div>
                 </div>
+                
             </div>
         </div>
     </div>
 </div>
-</div>
 <!-- End About -->
+
 <!-- Start Treatments -->
 <div id="treatments" class="treatments">
     <div class="container-fluid">
         <h2 class="section-title">Treatments</h2>
+
         <div class="row">
             {% for treatment in site.data.treatments %}
-            <div class="col-sm-6 col-md-4">
-                <div class="icon-box">
-                    <svg class="icon {{ treatment.icon }}">
-                        <use xlink:href="#{{ treatment.icon }}"></use>
-                    </svg>
-                    <h4>{{ treatment.title }}</h4>
-                    <p>{{ treatment.description }}</p>
+                <div class="col-sm-6 col-md-4">
+                    <div class="icon-box">
+                        <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
+                        <h4>{{ treatment.title }}</h4>
+                        <p>{{ treatment.description }}</p>
+                    </div>
                 </div>
-            </div>
             {% endfor %}
         </div>
     </div>
 </div>
 <!-- End Treatments -->
+
 <!-- Start Our team -->
 <!--<div id="team" class="team"> 
     <h2 class="section-title">Our Team</h2> 
@@ -186,6 +190,7 @@ layout: default
     </div>
 </div>-->
 <!-- End Our team -->
+
 <!-- Start Testimonials -->
 <div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
     <div class="overlay-container">
@@ -193,41 +198,42 @@ layout: default
         <div class="container-fluid">
             <div id="testimonial-carousel">
                 {% for testimonial in site.data.testimonials %}
-                <div class="testimonial-item">
-                    <svg class="icon icon-quote-left">
-                        <use xlink:href="#icon-quote-left"></use>
-                    </svg>
-                    <blockquote>
-                        <p>{{ testimonial.description }}</p>
-                        <footer>
-                            {{ testimonial.name }}
-                            <small>{{ testimonial.title }}</small>
-                        </footer>
-                    </blockquote>
-                </div>
+                    <div class="testimonial-item">
+                        <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
+                        <blockquote>
+                            <p>{{ testimonial.description }}</p>
+                            <footer>
+                                {{ testimonial.name }}
+                                <small>{{ testimonial.title }}</small>
+                            </footer>
+                        </blockquote>
+                    </div>
                 {% endfor %}
             </div>
         </div>
     </div>
 </div>
 <!-- End Testimonials -->
+
 <!-- Start Gallery -->
 <div id="gallery" class="gallery">
+        
     <h2 class="section-title">Artículos</h2>
+
     {% for images in site.data.gallery %}
-    <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
-        <div class="expandable-box-top">
-            <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
-        </div>
-        <div class="expandable-box-bottom">
-            <span><svg class="icon icon-chain">
-                    <use xlink:href="#icon-chain"></use>
-                </svg></span>
-        </div>
-    </a>
+        <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
+            <div class="expandable-box-top">
+                <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
+            </div>
+            <div class="expandable-box-bottom">
+                <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
+            </div>
+        </a>
     {% endfor %}
+
 </div>
 <!-- End Gallery -->
+
 <!-- Start Map -->
 <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
 <!-- End Map -->
