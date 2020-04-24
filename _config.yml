@@ -19,12 +19,12 @@ contact:
     phone: 932 50 540
     emergency: 931 53 234
     email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    address: Calle Privada Ignacio Zaragoza 16A,Consultorio 216, Torre 2, Villas del Refugio, 75030 Santiago de Querétaro, Qro.
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 9:00 – 17:00
+saturday: Cerrado
+sunday: Cerrado
 
 # Testimonials
 testimonials:
