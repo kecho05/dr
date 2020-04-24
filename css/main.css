@@ -7816,10 +7816,10 @@ Example showing how to change the color/size of the icons:
 
 .boxed-icon {
   width: 3.3rem;
-  height: 2.3rem;
+  /*height: 2.3rem;
   padding: 5px 0;
-  border: solid 2px #3dadb2;
-  text-align: center;
+  border: solid 2px $colorPrimary;
+  text-align: center;*/
 }
 .boxed-icon .icon {
   color: #3dadb2;
