@@ -3,7 +3,7 @@ title: DentistSmile | Dental Jekyll Theme
 description: "Dr. Meza"
 baseurl: "/dr"
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: img/logo.png
 
 # Hero
 hero: 
