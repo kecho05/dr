@@ -1,13 +1,13 @@
 # Site settings
 title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+description: "Dr. Meza"
 baseurl: "/dr"
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: main_1.jpg
     hero_title: DentistSmile
     hero_description: A responsive Jekyll theme for dental clinics.
 
@@ -16,8 +16,8 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
+    phone: +52 422-312-2431
+    emergency: XX XX XX
     email: contact@yoursite.com
     address: Calle Privada Ignacio Zaragoza 16A,Consultorio 216, Torre 2, Villas del Refugio, 75030 Santiago de Querétaro, Qro.
 
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Calle Privada Ignacio Zaragoza 16A,Consultorio 216, Torre 2, Villas del Refugio, 75030 Santiago de Querétaro, Qro.
     address_details: svg/min/logo.svg
 
 # Social settings
