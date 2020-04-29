@@ -7709,12 +7709,10 @@ strong {
   padding-top: 15px;
 }
 
-@media screen and (min-width: 0px) and (max-width: 400px) {
+@media screen and (min-width: 0px) and (max-width: 1024px) {
   #about_2_img {
     display: none;
   }
-
-  /* show it on small screens */
 }
 /* TESTIMONIALS
 -------------------------------------------------*/
