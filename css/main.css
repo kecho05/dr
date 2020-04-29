@@ -7709,6 +7709,13 @@ strong {
   padding-top: 15px;
 }
 
+@media screen and (min-width: 0px) and (max-width: 400px) {
+  #about_2_img {
+    display: none;
+  }
+
+  /* show it on small screens */
+}
 /* TESTIMONIALS
 -------------------------------------------------*/
 .testimonials {
