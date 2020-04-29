@@ -10,8 +10,13 @@
 	padding-top: 15px;
 
 }
-@media screen and (min-width: 0px) and (max-width: 1024px) {
-  #about_2_img { 
+@media screen and (min-width: 0px) and (max-width: 768px) {
+  #about_2_1_img { 
+  	display: none;
+   } 
+}
+@media screen and (min-width: 768pxpx)) {
+  #about_2_2_img { 
   	display: none;
    } 
 }
