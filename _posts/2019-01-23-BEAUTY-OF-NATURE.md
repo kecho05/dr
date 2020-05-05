@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Articulo 3"
+title:  "Una nueva técnica de reconstrucción percutánea en trípode para lesiones periacetabulares causadas por cáncer metastásico"
 description: "Titulo 3"
 date:   2020-05-03
-banner_preview: blog1.jpg
+banner_preview: blog3.png
 banner_image: blog-banner.jpg
 category: Passion
 tags: [web design, blogging]
