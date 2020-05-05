@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Ejemplo de artículo"
-description: "Aumento de la pendiente tibial posterior en pacientes con enfermedad de Osgood-Schlatter: una nueva asociación."
-date:   2020-05-10
-banner_preview: blog2.jpg
+title:  "Articulo 1"
+description: "Titulo 1"
+date:   2020-05-01
+banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
 category: Design
 tags: [minimal,passion , fashion]
 ---
 
 
-La enfermedad de Osgood-Schlatter (OSD) es una apofisitis por tracción del tubérculo tibial causada por tensión repetitiva y avulsión crónica del tendón rotuliano. No se han asociado factores de riesgo anatómicos ampliamente aceptados con la OSD.
-Para determinar si la OSD está asociada con un aumento de la pendiente tibial posterior (PTS).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <!--more-->
 

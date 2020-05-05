@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "BEAUTY OF NATURE"
-description: "Aumento de la pendiente tibial posterior en pacientes con enfermedad de Osgood-Schlatter: una nueva asociación."
-date: 2019-01-23
+title:  "Articulo 3"
+description: "Titulo 3"
+date:   2020-05-03
 banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
 category: Passion

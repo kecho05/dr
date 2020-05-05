@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "10 tips for drawing with coloured pencils"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim..."
-date: 2019-01-21
-banner_preview: blog3.jpg
+title:  "Articulo 2"
+description: "Titulo 2"
+date:   2020-05-02
+banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
 category: Design
 tags: [web design, blogging]
