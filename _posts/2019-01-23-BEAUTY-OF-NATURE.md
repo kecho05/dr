@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Una nueva técnica de reconstrucción percutánea en trípode para lesiones periacetabulares causadas por cáncer metastásico"
-description: "Titulo 3"
+title:  "Reconstrucción percutánea"
+description: "Una nueva técnica de reconstrucción percutánea en trípode para lesiones periacetabulares causadas por cáncer metastásico"
 date:   2020-05-03
 banner_preview: blog3.png
 banner_image: blog-banner.jpg

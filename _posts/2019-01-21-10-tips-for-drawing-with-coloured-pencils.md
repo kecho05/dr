@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "La ubicación de la lesión de la osteocondritis disecante la es altamente concordante con la desviación del eje mecánico"
-description: "Titulo 2"
+title:  "Osteocondritis disecante"
+description: "La ubicación de la lesión de la osteocondritis disecante la es altamente concordante con la desviación del eje mecánico"
 date:   2020-05-02
 banner_preview: blog2.png
 banner_image: blog-banner.jpg
