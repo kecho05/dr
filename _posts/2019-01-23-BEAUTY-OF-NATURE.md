@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BEAUTY OF NATURE"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim..."
+description: "Aumento de la pendiente tibial posterior en pacientes con enfermedad de Osgood-Schlatter: una nueva asociación."
 date: 2019-01-23
 banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
