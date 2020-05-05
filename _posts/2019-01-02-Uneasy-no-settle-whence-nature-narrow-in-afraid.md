@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Articulo 1"
-description: "Titulo 1"
+title:  "Aumento de la pendiente tibial posterior"
+description: "La enfermedad de Osgood-Schlatter (OSD) es una apofisitis por tracción del tubérculo tibial causada por tensión repetitiva y avulsión crónica"
 date:   2020-05-01
 banner_preview: blog1.jpg
 banner_image: blog-banner.jpg

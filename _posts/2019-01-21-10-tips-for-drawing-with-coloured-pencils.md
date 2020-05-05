@@ -3,7 +3,7 @@ layout: post
 title:  "Articulo 2"
 description: "Titulo 2"
 date:   2020-05-02
-banner_preview: blog1.jpg
+banner_preview: blog2.png
 banner_image: blog-banner.jpg
 category: Design
 tags: [web design, blogging]
