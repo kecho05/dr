@@ -5,7 +5,7 @@ description: "La enfermedad de Osgood-Schlatter (OSD) es una apofisitis por trac
 date:   2020-05-01
 banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
-category: Design
+category: Tibia
 tags: [minimal,passion , fashion]
 ---
 

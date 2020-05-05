@@ -5,7 +5,7 @@ description: "Titulo 3"
 date:   2020-05-03
 banner_preview: blog3.png
 banner_image: blog-banner.jpg
-category: Passion
+category: Reconstrucción
 tags: [web design, blogging]
 ---
 

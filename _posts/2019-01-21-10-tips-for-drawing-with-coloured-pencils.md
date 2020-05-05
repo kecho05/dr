@@ -5,7 +5,7 @@ description: "Titulo 2"
 date:   2020-05-02
 banner_preview: blog2.png
 banner_image: blog-banner.jpg
-category: Design
+category: Osteocondritis
 tags: [web design, blogging]
 ---
 
