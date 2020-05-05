@@ -10,7 +10,8 @@ tags: [minimal,passion , fashion]
 ---
 
 
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.
+La enfermedad de Osgood-Schlatter (OSD) es una apofisitis por tracción del tubérculo tibial causada por tensión repetitiva y avulsión crónica del tendón rotuliano. No se han asociado factores de riesgo anatómicos ampliamente aceptados con la OSD.
+Para determinar si la OSD está asociada con un aumento de la pendiente tibial posterior (PTS).
 
 <!--more-->
 
