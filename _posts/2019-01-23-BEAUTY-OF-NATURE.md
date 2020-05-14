@@ -23,6 +23,8 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 {% include image_full.html imageurl="/assets/images/blog-detail.jpg" title="Blog Desc" caption="Blog Image Desc" %}
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I usually do the posterior malleolus before the fibula- otherwise the view of the joint could be blocked by the fibula plate. Read about posterolateral approach to the ankle here: <a href="https://t.co/9VeH3eoia8">https://t.co/9VeH3eoia8</a> <a href="https://t.co/VghJJuoKKN">pic.twitter.com/VghJJuoKKN</a></p>&mdash; Yelena Bogdan, MD, FACS, FAAOS (@InvictaOrtho) <a href="https://twitter.com/InvictaOrtho/status/1260508343145283590?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ### 1914 TRANSLATION BY H. RACKHAM
