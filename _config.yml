@@ -5,6 +5,18 @@ baseurl: "/dr"
 url: "" # the name of your domain
 logo_url: img/logo.png
 
+navigation:
+- text: Inicio
+  url: /#top
+- text: Acerca de
+  url: /#about
+- text: Especialidades
+  url: /#treatments
+- text: Artículos
+  url: /#blog
+- text: Ubicación
+  url: /#location
+
 # Hero
 hero: 
     hero_img: main_1.jpg
