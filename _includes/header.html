@@ -20,7 +20,7 @@
                     {% if page.url == link.url %}
                     {% assign current = 'nav-current' %}
                     {% endif %}
-                <li class="{{ current }}">
+                <li class="scroll">
                     <a class="nav-link {{ current }}" href="{{site.baseurl}}{{ link.url }}">{{ link.text }}</a>
                 </li>
                 {% endfor %}
