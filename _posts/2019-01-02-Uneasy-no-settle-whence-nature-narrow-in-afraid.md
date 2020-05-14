@@ -6,7 +6,7 @@ date:   2020-01-01
 banner_preview: blog1.jpg
 banner_image: blog-banner.jpg
 category: Tibia
-tags: [minimal,passion , fashion]
+tags: [minimal,passion,fashion]
 ---
 
 
