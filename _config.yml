@@ -24,13 +24,13 @@ hero:
     hero_description: Traumatología y Ortopedia. Cirugía de Reconstrucción Articular
 
 # Contact form
-api_token: e4c566219137fd655099615d7c82550c
+api_token: 7ef7e0f48dc46df3bf63d3debe961a70
 
 # Contact info
 contact:
     phone: +52 422-312-2431
     emergency: XX XX XX
-    email: contact@yoursite.com
+    email: drmezavelazquez@hotmail.com
     address: Calle Privada Ignacio Zaragoza 16A,Consultorio 216, Torre 2, Villas del Refugio, 75030 Santiago de Querétaro, Qro.
 
 # Opening hours
