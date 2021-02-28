@@ -1,10 +1,10 @@
 - icon: icon-user-md
   title: TRAUMATOLOGIA Y ORTOPEDIA
-  description: 1.Fracturas de huesos del cuerpo.\n2. Dolor de hombro.\n3. Dolor de cadera.4. Dolor de rodilla.5. Luxaciones de hombro, muñecas, cadera, rodilla, pies.6. Ciática.7. Ruptura de tendones.8. Dolor de cuello.9. Dolor de espalda.10. Malformaciones de huesos como en la cadera y los pies.
+  description: > 1.Fracturas de huesos del cuerpo.\n2. Dolor de hombro.\n\3. Dolor de cadera.\\n4. Dolor de rodilla.\\n\5. Luxaciones de hombro, muñecas, cadera, rodilla, pies.6. Ciática.7. Ruptura de tendones.8. Dolor de cuello.9. Dolor de espalda.10. Malformaciones de huesos como en la cadera y los pies.
 
 - icon: icon-diamond
   title: RECONSTRUCCION ARTICULAR
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Prótesis de HOMBRO.2. Prótesis de CADERA.3. Prótesis de RODILLA.4. Reemplazar prótesis complicadas por AFLOJAMIENTOS, INFECCIONES O FRACTURAS.
 
 - icon: icon-flask
   title: ARTROSCOPIA
