@@ -21,7 +21,7 @@ navigation:
 hero: 
     hero_img: main_1.jpg
     hero_title: Doctor Salvador Meza Velázquez
-    hero_description: Traumatología y Ortopedia. Cirugía de Reconstrucción Articular
+    hero_description: Traumatología y Ortopedia. Cirugía de Reconstrucción Articular, Artroscopia y lesiones deportivas
 
 # Contact form
 api_token: 7ef7e0f48dc46df3bf63d3debe961a70
