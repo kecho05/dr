@@ -246,8 +246,8 @@ layout: default
 
                 {% for post in site.posts limit:3 %}
                     <div class="col-sm-4">
-                        <a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
-                        <!--<a href="#" class="blogList wow fadeInUp">-->
+                        <!--<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">-->
+                        <a href="#" class="blogList wow fadeInUp">
                             <div class="blogList-img">
                                 {% if post.banner_image %}
                                     <img src="{{ "/assets/images/" | append: post.banner_preview | prepend: site.baseurl }}" alt="Blog Desc">
@@ -265,8 +265,8 @@ layout: default
                 {% endfor %}
 
                 <div class="col-sm-12">
-                    <a class="blog-viewMore" href="{{site.baseurl}}/blog.html">VER MÁS</a>
-                    <!--<a class="blog-viewMore" href="#">VER MÁS</a>-->
+                    <!--<a class="blog-viewMore" href="{{site.baseurl}}/blog.html">VER MÁS</a>-->
+                    <a class="blog-viewMore" href="#">VER MÁS</a>
                 </div>
 
             </div><!-- .row -->
