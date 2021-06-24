@@ -41,13 +41,16 @@ layout: default
                     <input type="email" name="_replyto" placeholder="Su correo electrónico">
                 </div>
                 <div class="form-field">
+                    <input type="text" name="phone" placeholder="Su teléfono">
+                </div>
+                <div class="form-field">
                     <textarea name="message" placeholder="Su mensaje"></textarea>
                 </div>
                 <!--<input type="file" name="file" placeholder="Attachments (optional)">-->
-                <input type="hidden" name="_subject" value="Nuevo mensaje desde web">
+                <input type="hidden" name="_subject" value="Contact form submitted">
+                <input type="hidden" name="_after" value="https://www.dr-meza-artrocenter.mx/">
                 <input type="hidden" name="_honeypot" value="">
-                <input type="hidden" name="_confirmation" value="Su mensaje se ha enviado correctamente">
-                <input type="hidden" name="_after" value="https://kecho05.github.io/dr/">
+                <input type="hidden" name="_confirmation" value="">
                 <input type="submit" value="Enviar">
             </form>
         </div>
