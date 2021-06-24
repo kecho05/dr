@@ -33,25 +33,12 @@ layout: default
                 </div>
                 <input type="submit" class="btn btn-default" value="Enviar">
             </form> -->
-            <form action="https://mailthis.to/sergiorm" method="POST" encType="multipart/form-data">
-                <div class="form-field">
-                    <input type="text" name="name" placeholder="Su nombre">
-                </div>
-                <div class="form-field">
-                    <input type="email" name="_replyto" placeholder="Su correo electrónico">
-                </div>
-                <div class="form-field">
-                    <input type="text" name="phone" placeholder="Su teléfono">
-                </div>
-                <div class="form-field">
-                    <textarea name="message" placeholder="Su mensaje"></textarea>
-                </div>
-                <!--<input type="file" name="file" placeholder="Attachments (optional)">-->
-                <input type="hidden" name="_subject" value="Contact form submitted">
-                <input type="hidden" name="_after" value="https://www.dr-meza-artrocenter.mx">
-                <input type="hidden" name="_honeypot" value="">
-                <input type="hidden" name="_confirmation" value="">
-                <input type="submit" value="Enviar">
+            <form action="https://api.mailslurp.com/forms" method="post">
+                <!-- add your email as a hidden `_to` field -->
+                <input type="hidden" name="_to" value="6fb409b7-b295-45cf-9278-711bd9d86e2e@mailslurp.world" />
+                <!-- data fields -->
+                <input name="birthday" placeholder="Please enter your birthday" />
+                <button type="submit">Submit</button>
             </form>
         </div>
 
