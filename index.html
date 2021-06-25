@@ -33,7 +33,7 @@ layout: default
                 </div>
                 <input type="submit" class="btn btn-default" value="Enviar">
             </form> -->
-            <form action="https://api.mailslurp.com/forms" method="post" onsubmit="alert('Su mensaje ha sido enviado correctamente.'); return false">
+            <form action="https://api.mailslurp.com/forms" method="post">
                 <!-- add your email as a hidden `_to` field -->
                 <input type="hidden" name="_to" value="6fb409b7-b295-45cf-9278-711bd9d86e2e@mailslurp.world" />
                 <!-- data fields -->
@@ -50,7 +50,7 @@ layout: default
                     <textarea name="Comentario" placeholder="Mensaje" required></textarea>
                 </div>
                 <input type="hidden" name="_successMessage" value="Su mensaje se ha enviado correctamente" />
-                <input type="hidden" name=" _redirectTo" value="https://www.dr-meza-artrocenter.mx/" />
+                <input type="hidden" name="_redirectTo" value="https://www.dr-meza-artrocenter.mx/" />
                 <button type="submit">Enviar</button>
             </form>
         </div>
