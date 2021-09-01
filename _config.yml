@@ -1,8 +1,8 @@
 # Site settings
 title: Dr-Meza
 description: "Traumatólogo"
-baseurl: "/dr"
-url: "" # the name of your domain
+baseurl: ""
+url: "www.dr-meza-artrocenter.mx" # the name of your domain
 logo_url: img/logo.png
 
 navigation:
